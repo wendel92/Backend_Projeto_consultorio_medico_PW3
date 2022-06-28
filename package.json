@@ -1,0 +1,26 @@
+{
+  "name": "back-final-pw3",
+  "version": "1.0.0",
+  "description": "back-final-pw3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "PW3",
+    "ETEC",
+    "ATIVIDADE",
+    "API-REST"
+  ],
+  "author": "Wendel Ribeiro Batista",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.4",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.16.1"
+  }
+}
